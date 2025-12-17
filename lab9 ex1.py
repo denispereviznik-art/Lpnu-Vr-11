@@ -17,7 +17,7 @@ if clock_end <= clock_start:
 
 # скільки хвилин пройшло на годиннику
 clock_diff = clock_end - clock_start
-# wewee
+
 # реальний час іде вдвічі швидше
 real_diff = clock_diff * 2
 
