@@ -29,6 +29,3 @@ a2 = (real_time // 60) % 24
 b2 = real_time % 60
 
 print(a2, b2)
-      #psi psu psa
-      #asadsjjladsjdsa
-      #awdkoasd[pk[poads[padsoq
