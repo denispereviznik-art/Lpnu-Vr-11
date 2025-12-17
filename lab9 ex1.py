@@ -31,4 +31,4 @@ b2 = real_time % 60
 print(a2, b2)
       #psi psu psa
       #asadsjjladsjdsa
-      #awdkoasd[pk[poads[padso
+      #awdkoasd[pk[poads[padsoq
